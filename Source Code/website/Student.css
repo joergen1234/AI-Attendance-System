@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-image: url("maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: auto;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align:center;
+    color: #ffffff; /* Add text color for better visibility */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text shadow for better visibility */
+}
+
+form {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+input[type="file"] {
+    display: block;
+    margin: 10px auto;
+}
+
+button[type="submit"] {
+    padding: 10px 20px;
+}
+
+#progress {
+    margin-top: 20px;
+    text-align: center;
+}
